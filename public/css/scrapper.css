@@ -1,5 +1,5 @@
 body { 
-    background-image: url(images/universe.jpg); 
+    background-image: url(images/News-Banner-Image.png); 
     background-size: 100% auto; 
     background-size: cover;
     color: aliceblue;
@@ -51,7 +51,7 @@ textarea {
     width: 400px;
     height: 400px;
     background-repeat: no-repeat, repeat;
-    background-image: url(images/logo.jpg), url(images/universe.jpg);
+    background-image: url(images/logo.jpg), url(images/News-Banner-Image.png);
     background-blend-mode: lighten;
 }
 a
